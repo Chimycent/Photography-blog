@@ -1,0 +1,13 @@
+p{
+    margin-left: 1.66%;
+    font-family: 'Sevillana', cursive;
+    font-size: 50px;
+    border-bottom: 3px solid #f1f1f1;
+    width: 30%;
+    padding-bottom: 20px;
+}
+img{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
